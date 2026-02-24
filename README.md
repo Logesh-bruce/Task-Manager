@@ -1,6 +1,6 @@
 # Task Manager
 
-A full-stack Task Management System built with the MERN stack (MongoDB, Express, React, Node.js).
+A full-stack Task Management System built with the MERN stack (MongoDB, Express, React, Node.js). 
 
 ## Project Structure
 
